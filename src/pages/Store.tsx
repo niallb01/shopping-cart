@@ -2,6 +2,7 @@ import storeItems from "../data/items.json";
 import { Row, Col } from "react-bootstrap";
 import StoreItem from "../components/StoreItem";
 // parent of storeitem component, we're sending data from here
+
 const Store = () => {
   return (
     <>
